@@ -1,0 +1,59 @@
+﻿@model gushv3.Models.Inventory
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Inventory</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.prodName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.prodName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.prodStockQty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.prodStockQty)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.prodStockReq)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.prodStockReq)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.prodPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.prodPrice)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.prodId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+<style>
+    body {
+        background-image: url("http://zellox.com/wp-content/uploads/2016/05/website-backgrounds-%E2%80%AB1%E2%80%AC-%E2%80%AB%E2%80%AC-1920x1080.jpg");
+        background-size: 1360px 768px;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+    }
+</style>

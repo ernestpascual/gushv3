@@ -1,0 +1,406 @@
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\gushv3.dll.config
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\gushv3.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\gushv3.pdb
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Antlr3.Runtime.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\EntityFramework.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\EntityFramework.SqlServer.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Web.Infrastructure.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Newtonsoft.Json.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Owin.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.Helpers.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.Mvc.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.Optimization.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.Razor.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.WebPages.Deployment.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.WebPages.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.WebPages.Razor.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\WebGrease.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.Helpers.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.Mvc.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.Optimization.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.Razor.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.WebPages.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.WebPages.Deployment.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\System.Web.WebPages.Razor.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Newtonsoft.Json.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Antlr3.Runtime.pdb
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\EntityFramework.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\EntityFramework.SqlServer.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\obj\Debug\gushv3.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\obj\Debug\gushv3.dll
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\obj\Debug\gushv3.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\gushv3\gushv3\obj\Debug\gushv3.Migrations.InitialCreate.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\gushv3\gushv3\obj\Debug\gushv3.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\gushv3\gushv3\obj\Debug\gushv3.Migrations.initial.resources
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\gushv3.dll.config
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\gushv3.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\gushv3.pdb
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Antlr3.Runtime.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\EntityFramework.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\EntityFramework.SqlServer.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Newtonsoft.Json.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Owin.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.Helpers.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.Mvc.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.Optimization.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.Razor.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.WebPages.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\WebGrease.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\EntityFramework.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\EntityFramework.SqlServer.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.Helpers.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.Mvc.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.Optimization.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.Razor.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.WebPages.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Newtonsoft.Json.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Antlr3.Runtime.pdb
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\obj\Debug\gushv3.csprojResolveAssemblyReference.cache
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\obj\Debug\gushv3.Migrations.InitialCreate.resources
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\obj\Debug\gushv3.Migrations.initial.resources
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\obj\Debug\gushv3.csproj.GenerateResource.Cache
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\obj\Debug\gushv3.dll
+C:\Users\Yancy Santos\Downloads\Gush\gushv3\gushv3\obj\Debug\gushv3.pdb
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\gushv3.dll.config
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\gushv3.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\gushv3.pdb
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Antlr3.Runtime.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\EntityFramework.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\EntityFramework.SqlServer.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Newtonsoft.Json.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Owin.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.Helpers.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.Mvc.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.Optimization.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.Razor.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.WebPages.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\WebGrease.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\EntityFramework.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\EntityFramework.SqlServer.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.Helpers.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.Mvc.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.Optimization.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.Razor.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.WebPages.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Newtonsoft.Json.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Antlr3.Runtime.pdb
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\obj\Debug\gushv3.csprojResolveAssemblyReference.cache
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\obj\Debug\gushv3.Migrations.InitialCreate.resources
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\obj\Debug\gushv3.Migrations.initial.resources
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\obj\Debug\gushv3.csproj.GenerateResource.Cache
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\obj\Debug\gushv3.dll
+C:\Users\Gian Dennison\Desktop\Gush\Gush\gushv3\gushv3\obj\Debug\gushv3.pdb
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\gushv3.dll.config
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\gushv3.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\gushv3.pdb
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Antlr3.Runtime.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\EntityFramework.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\EntityFramework.SqlServer.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Newtonsoft.Json.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Owin.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.Helpers.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.Mvc.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.Optimization.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.Razor.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.WebPages.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\WebGrease.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\EntityFramework.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\EntityFramework.SqlServer.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.Helpers.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.Mvc.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.Optimization.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.Razor.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.WebPages.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Newtonsoft.Json.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Antlr3.Runtime.pdb
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\obj\Debug\gushv3.csprojResolveAssemblyReference.cache
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\obj\Debug\gushv3.Migrations.InitialCreate.resources
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\obj\Debug\gushv3.Migrations.initial.resources
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\obj\Debug\gushv3.csproj.GenerateResource.Cache
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\obj\Debug\gushv3.dll
+C:\Users\Yancy Santos\Videos\Gush1\Gush\gushv3\gushv3\obj\Debug\gushv3.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\gushv3.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\gushv3.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\gushv3.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Owin.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.WebPages.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\WebGrease.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.WebPages.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\obj\Debug\gushv3.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\obj\Debug\gushv3.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\obj\Debug\gushv3.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\obj\Debug\gushv3.Migrations.InitialCreate.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\obj\Debug\gushv3.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Gush 2\gushv3\gushv3\obj\Debug\gushv3.Migrations.Initial.resources
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\gushv3.dll.config
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\gushv3.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\gushv3.pdb
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Antlr3.Runtime.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\EntityFramework.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Newtonsoft.Json.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Owin.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.Helpers.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.Mvc.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.Optimization.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.Razor.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.WebPages.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\WebGrease.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\EntityFramework.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.Helpers.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.Mvc.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.Optimization.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.Razor.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.WebPages.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Newtonsoft.Json.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\obj\Debug\gushv3.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\obj\Debug\gushv3.Migrations.InitialCreate.resources
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\obj\Debug\gushv3.Migrations.Initial.resources
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\obj\Debug\gushv3.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\obj\Debug\gushv3.dll
+C:\Users\PC\Documents\Gush3\gushv3\gushv3\obj\Debug\gushv3.pdb
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\gushv3.dll.config
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\gushv3.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\gushv3.pdb
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Antlr3.Runtime.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\EntityFramework.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Owin.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.Helpers.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.Mvc.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.Optimization.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.Razor.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.WebPages.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\WebGrease.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\EntityFramework.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.Helpers.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.Mvc.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.Optimization.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.Razor.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.WebPages.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\obj\Debug\gushv3.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\obj\Debug\gushv3.Migrations.InitialCreate.resources
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\obj\Debug\gushv3.Migrations.Initial.resources
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\obj\Debug\gushv3.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\obj\Debug\gushv3.dll
+\\Mac\Home\Downloads\ISPROG3 Final Project\Gush\gushv3\gushv3\obj\Debug\gushv3.pdb

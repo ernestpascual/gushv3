@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Admin Authentication";
+}
+<center>
+    <h2>Admin Authentication</h2>
+    @using (Html.BeginForm())
+    {
+        <div class="row">
+            @Html.Label("Enter Admin Authentication code:")
+            @Html.TextBox("authcode")
+        </div>
+        <input type="submit" value="Enter" />
+    }
+</center>
+

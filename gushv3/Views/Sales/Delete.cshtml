@@ -1,0 +1,73 @@
+﻿@model gushv3.Models.Sales
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Sales</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.transDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.transDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.product)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.product)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.transQtyPurch)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.transQtyPurch)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cashier)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cashier)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
+<style>
+    body {
+        background-image: url("http://zellox.com/wp-content/uploads/2016/05/website-backgrounds-%E2%80%AB1%E2%80%AC-%E2%80%AB%E2%80%AC-1920x1080.jpg");
+        background-size: 1360px 768px;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+    }
+</style>

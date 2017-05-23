@@ -1,0 +1,71 @@
+﻿@model gushv3.Models.Inventory
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Inventory</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+        @Html.HiddenFor(model => model.prodId)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.prodName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.prodName)
+                @Html.ValidationMessageFor(model => model.prodName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.prodStockQty, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.prodStockQty)
+                @Html.ValidationMessageFor(model => model.prodStockQty)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.prodStockReq, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.prodStockReq)
+                @Html.ValidationMessageFor(model => model.prodStockReq)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.prodPrice, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.prodPrice)
+                @Html.ValidationMessageFor(model => model.prodPrice)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+<style>
+    body {
+        background-image: url("http://zellox.com/wp-content/uploads/2016/05/website-backgrounds-%E2%80%AB1%E2%80%AC-%E2%80%AB%E2%80%AC-1920x1080.jpg");
+        background-size: 1360px 768px;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+    }
+</style>

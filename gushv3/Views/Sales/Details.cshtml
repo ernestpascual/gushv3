@@ -1,0 +1,67 @@
+﻿@model gushv3.Models.Sales
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Sales</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.transDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.transDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.product)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.product)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.transQtyPurch)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.transQtyPurch)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cashier)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cashier)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TransId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+<style>
+    body {
+        background-image: url("http://zellox.com/wp-content/uploads/2016/05/website-backgrounds-%E2%80%AB1%E2%80%AC-%E2%80%AB%E2%80%AC-1920x1080.jpg");
+        background-size: 1360px 768px;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+    }
+</style>

@@ -1,0 +1,31 @@
+﻿@using gushv3.Models;
+@{
+    ViewBag.Title = "Dashboard";
+}
+
+<center>
+    <h1>Welcome @Session["username"]!</h1>
+    <div class="form-group">
+        <div class="col-lg-8 col-lg-push-2">
+            <input type="button" class="btn btn-default" value="Inventory" onclick="location.href='@Url.Action("../Inventories/Index")'" />
+            <input type="button" class="btn btn-default" value="Sales" onclick="location.href='@Url.Action("../Sales/Index")'" />
+        </div>
+    </div>
+</center>
+<style>
+    body {
+        background-image: url("http://img06.deviantart.net/ca80/i/2014/196/b/1/minimal_new_york_by_kevichan-d61zr27.jpg");
+        background-size: 1360px 768px;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+    }
+</style>
+<br />
+<br />
+<br />
+
+
+
+
+
